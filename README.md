@@ -1,0 +1,2 @@
+# introduction_to_mathematical_thinking
+Based on coursera introduction_to_mathematical_thinking
